@@ -1,12 +1,11 @@
 APClips
 Coders Rank
 CyberDefenders
-Freelance.habr
+GNOME VCS
 Giphy
-GitHub
+Gumroad
 HackerEarth
 Heavy-R
-Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -20,8 +19,6 @@ Splice
 Spotify
 Topcoder
 Weblate
-YandexMusic
 kaskus
-opennet
 svidbook
 threads
