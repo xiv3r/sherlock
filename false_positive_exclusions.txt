@@ -1,11 +1,10 @@
 APClips
+Audiojungle
 CyberDefenders
 GNOME VCS
 Giphy
-GitHub
 HackerEarth
 Heavy-R
-Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -15,7 +14,6 @@ Reddit
 Roblox
 RocketTube
 SlideShare
-SoylentNews
 Splice
 Spotify
 Topcoder
@@ -25,4 +23,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
