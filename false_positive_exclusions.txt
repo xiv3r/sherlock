@@ -1,5 +1,5 @@
 APClips
-Carbonmade
+Anilist
 Coders Rank
 GNOME VCS
 Giphy
@@ -14,6 +14,7 @@ Reddit
 Roblox
 RocketTube
 SlideShare
+SpeakerDeck
 Splice
 Spotify
 Topcoder
