@@ -1,9 +1,10 @@
 APClips
+BoardGameGeek
+Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -14,7 +15,6 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Strava
 Topcoder
 Weblate
 YandexMusic
