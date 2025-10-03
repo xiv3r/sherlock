@@ -1,12 +1,14 @@
 APClips
 BoardGameGeek
-Coders Rank
+Carbonmade
+CyberDefenders
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LessWrong
 LushStories
-Mydramalist
 PepperIT
 PocketStars
 Reddit
