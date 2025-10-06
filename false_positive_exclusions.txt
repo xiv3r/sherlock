@@ -1,6 +1,7 @@
 APClips
-BoardGameGeek
 Coders Rank
+DeviantArt
+GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
@@ -9,6 +10,7 @@ PepperIT
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
 Topcoder
