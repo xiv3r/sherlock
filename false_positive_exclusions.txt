@@ -10,7 +10,6 @@ PepperIT
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
 Topcoder
@@ -19,3 +18,4 @@ YandexMusic
 kaskus
 opennet
 svidbook
+xHamster
