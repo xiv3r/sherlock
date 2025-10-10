@@ -1,15 +1,14 @@
 APClips
-Coders Rank
 GNOME VCS
 Giphy
+Gravatar
 HackerEarth
 Heavy-R
-LushStories
+LiveJournal
 PepperIT
 PocketStars
 Reddit
 RocketTube
-RuneScape
 Splice
 Spotify
 Topcoder
