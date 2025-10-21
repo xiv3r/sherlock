@@ -1,6 +1,7 @@
 APClips
 BreachSta.rs Forum
 Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
 LushStories
@@ -13,4 +14,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-threads
