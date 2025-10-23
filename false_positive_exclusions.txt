@@ -1,7 +1,7 @@
 APClips
-BreachSta.rs Forum
-Carbonmade
-Flipboard
+CGTrader
+Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
 LushStories
@@ -14,4 +14,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
