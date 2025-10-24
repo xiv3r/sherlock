@@ -1,6 +1,5 @@
 APClips
-CGTrader
-Coders Rank
+Academia.edu
 DeviantArt
 GNOME VCS
 Giphy
@@ -10,6 +9,7 @@ Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 opennet
