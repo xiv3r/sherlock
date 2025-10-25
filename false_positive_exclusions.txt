@@ -1,8 +1,10 @@
 APClips
-Academia.edu
+Coders Rank
 DeviantArt
+Freelancer
 GNOME VCS
 Giphy
+Gravatar
 LushStories
 PocketStars
 Reddit
@@ -14,3 +16,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
