@@ -1,5 +1,7 @@
 APClips
+Carbonmade
 Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
 LushStories
@@ -9,7 +11,10 @@ Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
+nnRU
 opennet
 svidbook
+xHamster
