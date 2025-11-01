@@ -1,9 +1,8 @@
 APClips
-Carbonmade
 Coders Rank
 DeviantArt
-GNOME VCS
 Giphy
+Itch.io
 LushStories
 Minecraft
 PocketStars
@@ -14,7 +13,7 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-nnRU
 opennet
+phpRU
 svidbook
 xHamster
