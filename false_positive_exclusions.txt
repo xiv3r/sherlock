@@ -1,15 +1,17 @@
 APClips
-Coders Rank
-Flipboard
+Archive.org
+DeviantArt
 GNOME VCS
 Giphy
-LushStories
 PocketStars
 Reddit
 RocketTube
+RuneScape
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
+opennet
 phpRU
 svidbook
