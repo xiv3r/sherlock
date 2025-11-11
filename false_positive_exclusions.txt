@@ -8,7 +8,6 @@ LushStories
 PocketStars
 Reddit
 RocketTube
-Slashdot
 Splice
 Spotify
 Trovo
@@ -16,4 +15,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
