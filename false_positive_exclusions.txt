@@ -1,18 +1,19 @@
 APClips
 Archive.org
 Coders Rank
+Freelancer
 GNOME VCS
 Giphy
-Itch.io
 LushStories
 Minecraft
 PocketStars
 Reddit
 RocketTube
+SpeakerDeck
 Splice
 Spotify
 Weblate
 YandexMusic
-hunting
 opennet
+phpRU
 svidbook
