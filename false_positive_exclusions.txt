@@ -1,7 +1,7 @@
 APClips
 Archive.org
 Coders Rank
-Freelancer
+DEV Community
 GNOME VCS
 Giphy
 LushStories
@@ -9,7 +9,6 @@ Minecraft
 PocketStars
 Reddit
 RocketTube
-SpeakerDeck
 Splice
 Spotify
 Weblate
