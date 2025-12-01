@@ -1,20 +1,19 @@
 APClips
 Archive.org
+BitBucket
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 LushStories
 PocketStars
 Reddit
 RocketTube
-SpeakerDeck
+Slack
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
+opennet
 svidbook
-threads
-xHamster
