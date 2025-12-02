@@ -1,7 +1,8 @@
 APClips
 Archive.org
-BitBucket
+Coders Rank
 DeviantArt
+Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -9,7 +10,6 @@ LushStories
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
 Trovo
