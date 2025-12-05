@@ -1,8 +1,8 @@
 APClips
 Archive.org
-CGTrader
 Code Snippet Wiki
 Coders Rank
+Fosstodon
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -18,3 +18,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
