@@ -1,14 +1,11 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Coders Rank
-Fosstodon
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -18,4 +15,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
