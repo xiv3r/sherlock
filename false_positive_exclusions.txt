@@ -1,7 +1,6 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Coders Rank
 DeviantArt
 Fandom
 GNOME VCS
@@ -9,7 +8,6 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -19,4 +17,5 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+opennet
 svidbook
