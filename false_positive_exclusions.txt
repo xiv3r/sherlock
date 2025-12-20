@@ -8,9 +8,11 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
+Scribd
 SlideShare
 Splice
 Spotify
@@ -19,3 +21,5 @@ Weblate
 YandexMusic
 opennet
 svidbook
+threads
+xHamster
