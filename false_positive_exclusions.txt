@@ -1,5 +1,5 @@
 APClips
-CGTrader
+Archive.org
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -8,19 +8,17 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
-Strava
 Trovo
 Weblate
 YandexMusic
 opennet
 phpRU
 svidbook
+xHamster
