@@ -7,9 +7,7 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Itch.io
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -23,3 +21,4 @@ YandexMusic
 opennet
 phpRU
 svidbook
+xHamster
