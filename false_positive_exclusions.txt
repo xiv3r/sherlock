@@ -1,6 +1,7 @@
 APClips
 Archive.org
 Code Snippet Wiki
+Dribbble
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -10,12 +11,12 @@ LushStories
 PocketStars
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
 Weblate
-WordPress
 YandexMusic
 opennet
 phpRU
