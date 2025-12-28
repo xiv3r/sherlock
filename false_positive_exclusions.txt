@@ -1,17 +1,16 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Dribbble
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
@@ -21,3 +20,4 @@ YandexMusic
 opennet
 phpRU
 svidbook
+xHamster
