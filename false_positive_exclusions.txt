@@ -1,12 +1,16 @@
 APClips
 Archive.org
+BoardGameGeek
 Code Snippet Wiki
 DeviantArt
 Fandom
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gravatar
 Hubski
+OurDJTalk
 PocketStars
 Reddit
 RocketTube
@@ -17,5 +21,7 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+mercadolivre
+opennet
 phpRU
 svidbook
