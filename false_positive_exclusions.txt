@@ -1,14 +1,11 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Coders Rank
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LiveJournal
 LushStories
 PocketStars
 Reddit
@@ -17,7 +14,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 mercadolivre
