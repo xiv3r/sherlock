@@ -6,8 +6,9 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Minecraft
+LushStories
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
