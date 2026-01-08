@@ -1,9 +1,10 @@
 APClips
 Archive.org
 Code Snippet Wiki
-DeviantArt
+DEV Community
 Fandom
 GNOME VCS
+GeeksforGeeks
 Giphy
 Hubski
 LushStories
