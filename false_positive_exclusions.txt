@@ -1,11 +1,12 @@
 APClips
 Archive.org
 Code Snippet Wiki
-DEV Community
+Cracked Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
 LushStories
 PocketStars
@@ -14,6 +15,7 @@ Reddit
 RocketTube
 Scribd
 SlideShare
+Smule
 Splice
 Spotify
 Weblate
@@ -22,3 +24,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
