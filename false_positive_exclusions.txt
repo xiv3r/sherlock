@@ -7,7 +7,6 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Itch.io
 LushStories
 Minecraft
 PocketStars
@@ -20,7 +19,6 @@ Smule
 Splice
 Spotify
 Trovo
-TryHackMe
 Weblate
 YandexMusic
 mercadolivre
