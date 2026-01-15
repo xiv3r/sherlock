@@ -6,7 +6,6 @@ Fandom
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
 PocketStars
 Realmeye
 Reddit
@@ -23,3 +22,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
