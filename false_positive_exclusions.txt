@@ -5,20 +5,20 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 Hubski
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
 Spotify
 Weblate
-YandexMusic
 mercadolivre
 opennet
 phpRU
