@@ -1,24 +1,25 @@
 APClips
 Archive.org
+Carbonmade
 Code Snippet Wiki
-DeviantArt
 Fandom
+Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+LessWrong
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
