@@ -5,20 +5,24 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
+Gumroad
 Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
 Splice
 Spotify
+Tiendanube
+Trovo
 TryHackMe
 Weblate
 YandexMusic
