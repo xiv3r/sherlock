@@ -1,17 +1,17 @@
 APClips
 Archive.org
+CGTrader
 Code Snippet Wiki
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
-Gumroad
 Hashnode
 Hubski
+LemmyWorld
 LessWrong
 LushStories
-Minecraft
+Patched
 PocketStars
 Realmeye
 Reddit
@@ -21,7 +21,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Tiendanube
 Trovo
 TryHackMe
 Weblate
@@ -30,3 +29,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
