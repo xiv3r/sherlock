@@ -1,14 +1,11 @@
 APClips
 Archive.org
-CGTrader
 Code Snippet Wiki
 DeviantArt
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LemmyWorld
 LessWrong
 LushStories
 Patched
@@ -29,4 +26,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
