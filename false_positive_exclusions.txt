@@ -4,10 +4,11 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 LessWrong
-OurDJTalk
+LushStories
 Patched
 PocketStars
 Realmeye
@@ -24,5 +25,8 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+minds
+opennet
 phpRU
 svidbook
+xHamster
