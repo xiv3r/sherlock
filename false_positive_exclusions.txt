@@ -1,7 +1,9 @@
 APClips
 Archive.org
+Blogger
 DeviantArt
 GNOME VCS
+GaiaOnline
 GeeksforGeeks
 Giphy
 HackerRank
@@ -25,8 +27,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
-xHamster
