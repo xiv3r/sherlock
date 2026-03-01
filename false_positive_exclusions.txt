@@ -1,12 +1,9 @@
 APClips
 Archive.org
-Blogger
-DeviantArt
+Codolio
 GNOME VCS
-GaiaOnline
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -22,11 +19,10 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
