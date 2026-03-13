@@ -1,6 +1,6 @@
 APClips
-Academia.edu
 Archive.org
+Coders Rank
 Codolio
 GNOME VCS
 GeeksforGeeks
