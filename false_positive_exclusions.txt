@@ -5,6 +5,7 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LessWrong
@@ -27,6 +28,9 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
+threads
+xHamster
