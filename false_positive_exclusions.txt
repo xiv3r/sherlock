@@ -5,14 +5,13 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
+HackerRank
 Hashnode
 Hubski
 LessWrong
 LushStories
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -28,9 +27,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
-threads
-xHamster
