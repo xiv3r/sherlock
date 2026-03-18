@@ -6,10 +6,12 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 Minecraft
 Patched
 PocketStars
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -25,5 +27,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
