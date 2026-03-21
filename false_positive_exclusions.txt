@@ -1,7 +1,7 @@
 APClips
 Archive.org
+CGTrader
 Codolio
-DeviantArt
 GeeksforGeeks
 Giphy
 Hashnode
@@ -20,10 +20,8 @@ Scribd
 Shelf
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
@@ -31,3 +29,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
