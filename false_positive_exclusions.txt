@@ -1,16 +1,12 @@
 APClips
 Archive.org
 Codolio
-DeviantArt
-Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LemmyWorld
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Pornhub
@@ -31,4 +27,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
