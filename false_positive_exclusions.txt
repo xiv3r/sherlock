@@ -7,10 +7,12 @@ DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
 Rarible
@@ -26,7 +28,6 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-Wix
 YandexMusic
 interpals
 mercadolivre
