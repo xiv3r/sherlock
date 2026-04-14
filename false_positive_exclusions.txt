@@ -1,5 +1,6 @@
 7Cups
 APClips
+Apple Discussions
 Archive.org
 Bandcamp
 Codolio
@@ -7,7 +8,6 @@ DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Hubski
 LessWrong
@@ -27,6 +27,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 interpals
