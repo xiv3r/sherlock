@@ -18,6 +18,7 @@ PocketStars
 Rarible
 Realmeye
 Reddit
+ReverbNation
 RocketTube
 Scribd
 Shelf
@@ -27,9 +28,9 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
+dailykos
 interpals
 mercadolivre
 opennet
