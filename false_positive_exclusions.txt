@@ -2,6 +2,7 @@
 APClips
 Apple Discussions
 Archive.org
+Audiojungle
 Bandcamp
 Codolio
 DeviantArt
@@ -12,6 +13,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
 Rarible
@@ -24,8 +26,8 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
