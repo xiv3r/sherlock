@@ -10,6 +10,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 LushStories
 Patched
 Pornhub
@@ -23,7 +24,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
@@ -33,3 +33,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
