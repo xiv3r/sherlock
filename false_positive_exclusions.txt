@@ -5,6 +5,7 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -12,8 +13,8 @@ Giphy
 Hashnode
 Hubski
 LushStories
-Outgress
 Patched
+Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -31,7 +32,6 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
