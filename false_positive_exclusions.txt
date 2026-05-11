@@ -8,14 +8,13 @@ DeviantArt
 Discord.bio
 Envato Forum
 Giphy
-Gravatar
+GitHub
 Hashnode
 Hubski
 LessWrong
 Minecraft
 Motherless
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -38,4 +37,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
