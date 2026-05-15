@@ -11,7 +11,7 @@ Envato Forum
 Giphy
 Hashnode
 Hubski
-Minecraft
+LessWrong
 Motherless
 Patched
 Pornhub
@@ -23,6 +23,7 @@ Scribd
 Shelf
 SlideShare
 Smule
+Snapchat
 Splice
 Spotify
 Trovo
@@ -30,6 +31,7 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 igromania
 interpals
