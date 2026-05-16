@@ -5,14 +5,12 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 Giphy
 Hashnode
 Hubski
 LessWrong
-Motherless
 Patched
 Pornhub
 Rarible
@@ -23,20 +21,18 @@ Scribd
 Shelf
 SlideShare
 Smule
-Snapchat
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
