@@ -10,7 +10,6 @@ Envato Forum
 Giphy
 Hashnode
 Hubski
-LessWrong
 Patched
 Pornhub
 Rarible
@@ -29,10 +28,10 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
