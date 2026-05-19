@@ -1,6 +1,6 @@
 7Cups
-APClips
 Airliners
+Anilist
 Apple Discussions
 Archive.org
 Bandcamp
@@ -13,12 +13,10 @@ Giphy
 Hashnode
 Hubski
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
