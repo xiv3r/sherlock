@@ -4,7 +4,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -13,7 +12,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Patched
 Rarible
 Realmeye
@@ -22,6 +20,7 @@ Replit.com
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
