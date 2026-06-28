@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -15,7 +16,7 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-Minecraft
+LiveJournal
 Odysee
 Patched
 Pornhub
