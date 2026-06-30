@@ -14,9 +14,11 @@ Giphy
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 Odysee
 OurDJTalk
+PCGamer
 Patched
 Pornhub
 Rarible
@@ -33,6 +35,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+WordPress
 YandexMusic
 authorSTREAM
 dailykos
@@ -42,4 +45,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
