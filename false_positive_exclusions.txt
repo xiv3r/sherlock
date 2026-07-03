@@ -7,6 +7,7 @@ Archive.org
 Bandcamp
 BreachSta.rs Forum
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -27,7 +28,6 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
@@ -42,7 +42,7 @@ fixya
 igromania
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
-xHamster
