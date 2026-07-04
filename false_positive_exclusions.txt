@@ -7,7 +7,6 @@ Archive.org
 Bandcamp
 BreachSta.rs Forum
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -38,11 +37,9 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-fixya
 igromania
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
