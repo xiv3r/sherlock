@@ -13,10 +13,10 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Odysee
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -27,6 +27,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trakt
 Trovo
 TryHackMe
