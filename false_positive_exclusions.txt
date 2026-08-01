@@ -1,11 +1,11 @@
 7Cups
+APClips
 Airliners
-Anilist
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -15,13 +15,14 @@ F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
+Houzz
 Hubski
 Instapaper
 LessWrong
 Odysee
-OurDJTalk
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
