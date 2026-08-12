@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
-CGTrader
 Chatujme.cz
 Codolio
 DeviantArt
@@ -18,11 +17,10 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+LiveJournal
 Odysee
-OurDJTalk
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,6 +35,7 @@ Spotify
 Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
