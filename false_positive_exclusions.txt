@@ -1,13 +1,12 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -21,8 +20,10 @@ Hubski
 Instapaper
 Minecraft
 Odysee
+Outgress
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -41,6 +42,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 hunting
 igromania
 interpals
@@ -48,3 +50,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
