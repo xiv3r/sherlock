@@ -16,10 +16,10 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+LiveJournal
 Odysee
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -29,7 +29,6 @@ RocketTube
 Scribd
 Shelf
 SlideShare
-Snapchat
 Splice
 Spotify
 Trovo
