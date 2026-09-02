@@ -4,6 +4,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
+BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
@@ -17,8 +19,10 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+ObservableHQ
 Odysee
 PCGamer
+Rajce.net
 Rarible
 Realmeye
 Reddit
