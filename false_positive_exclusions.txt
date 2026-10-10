@@ -4,9 +4,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -14,7 +14,6 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-Google Play
 HackerNews
 Hashnode
 Houzz
@@ -24,6 +23,8 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -42,8 +43,8 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
-furaffinity
 hunting
 igromania
 interpals
