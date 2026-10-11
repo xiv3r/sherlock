@@ -4,6 +4,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -24,7 +26,6 @@ ObservableHQ
 Odysee
 PCGamer
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -43,10 +44,9 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
+fl
 hunting
-igromania
 interpals
 mercadolivre
 opennet
