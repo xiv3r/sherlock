@@ -1,8 +1,8 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -22,11 +22,14 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Strava
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -34,6 +37,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 igromania
 interpals
@@ -41,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
