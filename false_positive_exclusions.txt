@@ -13,6 +13,7 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Linktree
 Minecraft
 ObservableHQ
 Odysee
@@ -27,7 +28,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
 Trakt
 TryHackMe
 Velomania
