@@ -9,7 +9,6 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-Gumroad
 HackerNews
 Hashnode
 Hubski
@@ -18,6 +17,7 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
+Rajce.net
 Rarible
 Realmeye
 Reddit
