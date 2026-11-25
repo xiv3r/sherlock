@@ -13,7 +13,6 @@ Hashnode
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
